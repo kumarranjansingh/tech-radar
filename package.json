@@ -1,0 +1,27 @@
+{
+  "name": "tech_radar_xt",
+  "version": "1.0.0",
+  "description": "Tech Radar for XT",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarranjansingh/tech-radar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarranjansingh/tech-radar/issues"
+  },
+  "homepage": "https://github.com/kumarranjansingh/tech-radar#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
