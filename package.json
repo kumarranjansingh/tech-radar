@@ -1,0 +1,23 @@
+{
+  "name": "tech-radar",
+  "version": "1.0.0",
+  "description": "At [Zalando](http://zalando.de), we maintain a [public Tech\r Radar](http://zalando.github.io/tech-radar/) to help our engineering teams\r align on technology choices. Is is based on the [pioneering work\r by ThoughtWorks](https://www.thoughtworks.com/radar).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarranjansingh/tech-radar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarranjansingh/tech-radar/issues"
+  },
+  "homepage": "https://github.com/kumarranjansingh/tech-radar#readme"
+}
